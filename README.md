@@ -33,4 +33,4 @@
 <a href="https://github.com/ImSandeepyadav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ImSaneepyadav">
 </a>
-<a href="https://github.com/ImSaneepyadav?tab=followers"><img src="https://img.shields.io/github/followers/ImSaneepyadav?label=Followers&style=social" alt="GitHub Badge"></a>
+
