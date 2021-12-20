@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImSandeepyadav&show_icons=true&locale=en" alt="imsandeepyadav" /></p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/ImSandeepyadav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ImSaneepyadav">
 </a>
 <a href="https://github.com/ImSaneepyadav?tab=followers"><img src="https://img.shields.io/github/followers/ImSaneepyadav?label=Followers&style=social" alt="GitHub Badge"></a>
