@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImSandeepyadav&show_icons=true&locale=en" alt="imsandeepyadav" /></p>
 
-## ❤ Views and Followers
+## ❤ Views 
 <a href="https://github.com/ImSandeepyadav/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=ImSaneepyadav">
 </a>
