@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sandeep Yadav</h1>
 <h3 align="center">I'm a passionate Frontend Developer from India</h3>
 
-<img src="https://img.shields.io/badge/OS-Linux-%230bacfd?style=flat&logo=reactjs&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
+<img src="https://img.shields.io/badge/Library-ReactJS--%230bacfd?style=flat&logo=reactjs&logoColor=%23dffcf0&cacheSeconds=64000" style="margin-right: 10px; margin-top: 10px;">
 
 - 🔭 I’m currently working on **ReactJs**
 
