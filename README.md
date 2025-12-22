@@ -26,6 +26,7 @@
 
 | Company           | Description                                                  | URL                                                          |
 | ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| **Harij Softech Solutions**         | - | [Hari.in](https://harij.in)
 | **ZeroCarbon.one**         | - | [zerocarbon.one](https://zerocarbon.one/)
 | **Redmonk Studios**         | - | [redmonk.in](https://redmonk.in/)                              |
 | **ICETEA MEDIA GROUP**         | - | [iceteamedia.com](https://www.iceteamedia.com/)                              |            |
