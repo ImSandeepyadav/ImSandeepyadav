@@ -2,9 +2,7 @@
 <h3 align="center">I'm a passionate Frontend Developer from India</h3>
 
 
-- 🔭 I’m currently working on **ReactJs, Nextjs**
-
-- 🌱 I’m currently learning **ReactNative**
+- 🔭 I’m currently working on **ReactJs, Nextjs, ReactNative**
 
 - 💬 Ask me about **JavaScript, ReactJs, Nextjs**
 
