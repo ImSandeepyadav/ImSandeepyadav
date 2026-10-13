@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="72" viewBox="0 0 210 72" role="img" aria-label="Email me">
+<title>Email me</title>
+<style>
+.t { font-family: 'Segoe Print', 'Chalkboard SE', 'Comic Sans MS', 'Coming Soon', casual, cursive; }
+
+</style>
+<path d="M22.71 11.35 Q105.2 13.59 189.19 12.46 Q201.13 11.72 201.56 24.18 Q202.08 38.39 201.81 51.85 Q200.17 63.16 189.54 63.2 Q106.37 64.46 21.94 64.68 Q9.88 64.88 11.82 51.32 Q11.87 38.56 10.1 24.41 Q10.1 12.99 25.45 13.15" fill="#1F1F2E"/>
+<path d="M18.33 4.86 Q100.46 4.94 184.57 6.42 Q196.94 5.01 195.81 16.87 Q194.92 32.01 194.86 45.28 Q196.36 58.11 183.33 58.21 Q101.74 56.1 18.73 58.48 Q5.62 57.17 7.1 45.61 Q4.44 31.03 6.83 18.25 Q6.74 6.55 20.09 7.14" fill="#FFF1A8" stroke="#1F1F2E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M17.34 7.71 Q99.72 6.78 183.62 8.05 Q194.83 6.99 193.27 18.76 Q194.26 33.27 195.17 45.92 Q194.76 55.83 184.26 58.15 Q100.55 54.67 19.04 56.99 Q7.98 57.35 7.02 45.27 Q6.29 30.38 5.42 20.59 Q8.22 6.27 22.4 7.08" fill="none" stroke="#1F1F2E" stroke-width="1.1" opacity="0.4"/>
+<g transform="translate(40 32)"><g transform="scale(0.72)"><path d="M-20 -12H20V14H-20Z" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="3.06" stroke-linejoin="round"/><path d="M-20 -12L0 4L20 -12" fill="none" stroke="#1F1F2E" stroke-width="3.06" stroke-linejoin="round"/><path d="M0 12C-5 9 -6 4 -3 3C-1.5 2.5 -0.5 3.5 0 4.5C0.5 3.5 1.5 2.5 3 3C6 4 5 9 0 12Z" fill="#C23B3B"/></g></g>
+<text class="t" x="70" y="40" font-size="21" font-weight="700" fill="#1F1F2E" textLength="96" lengthAdjust="spacingAndGlyphs">Email me</text>
+</svg>

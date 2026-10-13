@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="72" viewBox="0 0 210 72" role="img" aria-label="GitHub">
+<title>GitHub</title>
+<style>
+.t { font-family: 'Segoe Print', 'Chalkboard SE', 'Comic Sans MS', 'Coming Soon', casual, cursive; }
+
+</style>
+<path d="M22.2 12.46 Q106.32 11.92 188.32 12.7 Q201.74 12.03 201.01 23.37 Q199.09 37.69 201.2 50.97 Q201.71 63.36 188.36 62.9 Q107.19 64.92 23.9 64.28 Q9.88 63.59 10.99 51.08 Q12.74 37.68 10.17 24.76 Q10.1 13.03 24.89 12.12" fill="#1F1F2E"/>
+<path d="M19.1 5.14 Q99.86 7.91 183.24 5.09 Q196.36 5.63 196.93 17.36 Q197.76 31.57 196.24 47.04 Q196.44 59.02 184.5 56.92 Q101.92 58.34 17.55 57.26 Q6.84 58.2 7.05 46.66 Q7.77 32.16 6.48 18.27 Q5.42 7.1 19.55 6.67" fill="#E9E3F5" stroke="#1F1F2E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M20.53 8.61 Q102.41 4.6 183.33 6.73 Q195.11 5.67 193.89 18.8 Q193.39 31.84 193.29 43.51 Q195.76 56.72 183.05 57.84 Q100.49 54.45 20.02 57.32 Q7.57 57.44 8.69 44.51 Q8.5 31.53 7.26 19.58 Q6.33 5.51 20.91 7.78" fill="none" stroke="#1F1F2E" stroke-width="1.1" opacity="0.4"/>
+<g transform="translate(40 32)"><path d="M-7 -7.4V7.4M9 -1.4C9 5 -7 3 -7 7.4" fill="none" stroke="#1F1F2E" stroke-width="2.2" stroke-linecap="round"/><circle cx="-7" cy="-11" r="3.6" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2"/><circle cx="-7" cy="11" r="3.6" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2"/><circle cx="9" cy="-5" r="3.6" fill="#FFE45C" stroke="#1F1F2E" stroke-width="2"/></g>
+<text class="t" x="70" y="40" font-size="21" font-weight="700" fill="#1F1F2E" textLength="72" lengthAdjust="spacingAndGlyphs">GitHub</text>
+</svg>

@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="338" viewBox="0 0 816 338" role="img" aria-label="Languages and tools: HTML5, JavaScript, CSS3, Next.js, Node.js, React, React Router, Redux, Sass, Tailwind CSS, MongoDB, npm, Firebase">
+<title>Languages and tools: HTML5, JavaScript, CSS3, Next.js, Node.js, React, React Router, Redux, Sass, Tailwind CSS, MongoDB, npm, Firebase</title>
+<style>
+.t { font-family: 'Segoe Print', 'Chalkboard SE', 'Comic Sans MS', 'Coming Soon', casual, cursive; }
+
+</style>
+<defs><clipPath id="tl-c"><rect width="816" height="338" rx="16"/></clipPath><pattern id="tl-r" x="0" y="14" width="816" height="26" patternUnits="userSpaceOnUse"><rect x="0" y="25" width="816" height="1" fill="#C9DCF2"/></pattern></defs>
+<g clip-path="url(#tl-c)">
+<rect width="816" height="338" fill="#FFFDF5"/>
+<rect width="816" height="338" fill="url(#tl-r)"/>
+<rect x="76" y="0" width="1.5" height="338" fill="#F0A3A3"/>
+<circle cx="34" cy="56" r="8" fill="#ECE5D3"/>
+<circle cx="34" cy="120" r="8" fill="#ECE5D3"/>
+<circle cx="34" cy="184" r="8" fill="#ECE5D3"/>
+<circle cx="34" cy="248" r="8" fill="#ECE5D3"/>
+<circle cx="34" cy="312" r="8" fill="#ECE5D3"/>
+<path d="M108 42.05 C180.95 39.45 283.55 45.57 360.5 44.74 C365.5 53.8 363.5 63.6 358.5 70.55 C283.55 72.45 180.95 68.93 104 73.03 C100 62.2 101 52.4 108 42.59 Z" fill="#FFE45C" opacity="0.85"/>
+<text class="t" x="110" y="66" font-size="26" font-weight="700" fill="#1F1F2E" textLength="246" lengthAdjust="spacingAndGlyphs">languages &amp; tools</text>
+<g transform="rotate(-0.1 158 110)">
+<path d="M122.22 92.9 Q161.6 93.72 199.51 92.85 Q211.66 93.07 210.08 104.9 Q209.41 113.95 211.98 120.64 Q210.58 133.59 198.35 132.29 Q160.31 132.46 123.28 134.02 Q110.36 134 111.12 121.88 Q112.12 112.25 111.33 104.17 Q109.91 92.77 125.6 93.15" fill="#1F1F2E"/>
+<path d="M119 89.35 Q158.46 88.74 196.79 89.49 Q206.93 89.87 207.27 100.94 Q207.22 109.91 207.32 118.78 Q207.56 130.44 195.67 129.12 Q157.86 130.65 119.97 130.31 Q107.17 129.21 107.19 117.98 Q109.27 109.74 108.7 101.14 Q107.4 90.38 122.63 90.65" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="128" cy="110" r="6.5" fill="#E44D26" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="142" y="117" font-size="18" fill="#1F1F2E" textLength="50" lengthAdjust="spacingAndGlyphs">HTML5</text>
+</g>
+<g transform="rotate(-0.35 297 110)">
+<path d="M237.18 92.33 Q301.02 94.49 362.93 93.36 Q374.37 92.39 374.53 105.42 Q373.99 114.04 374.05 120.33 Q374.1 133.59 362.71 132.94 Q299.62 133.48 236.79 132.36 Q224.85 132.57 224.14 121.71 Q225.63 113.36 225.84 104.77 Q224.73 92.83 238.79 93.37" fill="#1F1F2E"/>
+<path d="M233.05 89.62 Q295.91 89.24 360.56 90.43 Q371.93 90.56 371.89 102.8 Q372.39 109.21 372.15 117.95 Q372.08 129.37 360.43 129.32 Q296.56 129.08 233.49 129.3 Q222.56 130.36 220.97 118.17 Q220.51 110.32 221.8 102.08 Q222.58 90.61 236.4 89.55" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="242.0" cy="110" r="6.5" fill="#F7DF1E" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="256.0" y="117" font-size="18" fill="#1F1F2E" textLength="100" lengthAdjust="spacingAndGlyphs">JavaScript</text>
+</g>
+<g transform="rotate(-1.01 431 110)">
+<path d="M400.23 93.26 Q433.27 93.75 467.24 92.75 Q479.26 93.15 478 105.07 Q479.42 113.04 479.83 121.52 Q478.73 132.4 466.18 133.68 Q434.42 133.38 400.87 133 Q388.39 133.07 388.22 121.27 Q389.46 113.37 388.44 104.1 Q388.63 93.41 403.02 93.54" fill="#1F1F2E"/>
+<path d="M398.58 90.32 Q430.8 88.94 464.39 91.03 Q475.84 90.77 474.98 102.06 Q474.95 109.99 476.24 118.78 Q476.05 130.81 463.62 129.18 Q430.92 130.76 398.46 128.98 Q385.45 129.46 385.94 118.8 Q385.19 109 386.88 102.81 Q386.6 88.99 399.47 89.29" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="406.0" cy="110" r="6.5" fill="#2965F1" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="420.0" y="117" font-size="18" fill="#1F1F2E" textLength="40" lengthAdjust="spacingAndGlyphs">CSS3</text>
+</g>
+<g transform="rotate(1.03 550 110)">
+<path d="M506.05 92.9 Q553.48 93.83 600.37 92.07 Q613.23 92.17 612.74 105.86 Q614.31 112.16 612.08 120.39 Q613.72 131.95 600.4 132.14 Q552.18 133.08 504.3 132.8 Q493.51 133.49 492.81 121.63 Q493.26 113.72 492.45 104.71 Q493.18 93.98 507.26 92.94" fill="#1F1F2E"/>
+<path d="M501.1 90.75 Q550.22 88.99 598.62 90.21 Q610.72 90.25 610.49 102.61 Q609.45 109.11 610.88 117.16 Q610.13 131.08 597.67 129.48 Q549.74 128.95 502.55 129.56 Q489.06 130.21 489.47 117.29 Q488.3 110.75 489.73 102.22 Q489.96 90.81 503.05 90.29" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="510.0" cy="110" r="6.5" fill="#1F1F2E" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="524.0" y="117" font-size="18" fill="#1F1F2E" textLength="70" lengthAdjust="spacingAndGlyphs">Next.js</text>
+</g>
+<g transform="rotate(-1.38 684 110)">
+<path d="M640.01 93.82 Q687.51 92.04 734.63 93.47 Q747.67 91.94 746.27 105.87 Q745.66 113.34 746.63 121.32 Q747.8 133.18 734.76 132.61 Q687.27 133.45 638.8 132.93 Q627.08 132.47 626.3 121.15 Q625.59 113.22 627.66 105.72 Q626.45 92.81 641.93 92.67" fill="#1F1F2E"/>
+<path d="M635.77 89.09 Q684.18 88.71 731.96 89.63 Q744.43 89.25 745.03 101.06 Q742.48 110.38 745.06 118.8 Q744.71 129.23 731.34 129.55 Q683.42 128.84 635.57 129.73 Q623.61 130.68 624.74 117.2 Q624.08 110.51 622.98 102.98 Q624.15 89.89 637.79 90.88" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="644.0" cy="110" r="6.5" fill="#5FA04E" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="658.0" y="117" font-size="18" fill="#1F1F2E" textLength="70" lengthAdjust="spacingAndGlyphs">Node.js</text>
+</g>
+<g transform="rotate(0.01 158 166)">
+<path d="M123.83 148.67 Q161.64 150.59 198.59 149.59 Q210.64 148.26 210.67 161.55 Q209.76 169.35 210.67 176.27 Q210.85 188.75 198.91 189.84 Q161.92 188.04 124.07 189.25 Q112.01 189.7 111.06 176.45 Q112.51 170.1 111.27 160.16 Q111.71 149.58 125.84 150.05" fill="#1F1F2E"/>
+<path d="M119.86 146.49 Q158.08 145.99 196.72 145.4 Q209.05 146.04 207.12 158.52 Q207.04 167.04 208.4 173.35 Q209.02 185.61 197 184.91 Q157.56 186.45 119.51 185.64 Q107.13 186.23 108.76 173.57 Q108.61 166.07 108.44 159.09 Q108.08 145.7 121.95 146.47" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="128" cy="166" r="6.5" fill="#61DAFB" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="142" y="173" font-size="18" fill="#1F1F2E" textLength="50" lengthAdjust="spacingAndGlyphs">React</text>
+</g>
+<g transform="rotate(1.12 307 166)">
+<path d="M237.46 149.88 Q308.94 150.56 383.71 148.02 Q395.67 149.67 394.31 162.04 Q394.52 168.89 395.34 177.42 Q395.54 188.51 382.96 188.2 Q309.5 188.97 236.06 188.67 Q225.69 188.29 224.85 175.98 Q225.84 168.12 224.3 161.54 Q224.87 149.12 239.24 148.99" fill="#1F1F2E"/>
+<path d="M232.92 145.57 Q307.52 147.2 380.87 147.04 Q391.31 145.47 392.06 158.33 Q390.92 166.53 391.5 174.39 Q392.32 185.57 379.83 186.41 Q307.12 185.31 234.96 185.66 Q221.6 185.12 222.99 174.43 Q222.58 166.02 221.32 156.93 Q222.13 146.7 237.08 145.11" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="242.0" cy="166" r="6.5" fill="#CA4245" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="256.0" y="173" font-size="18" fill="#1F1F2E" textLength="120" lengthAdjust="spacingAndGlyphs">React Router</text>
+</g>
+<g transform="rotate(-1.17 456 166)">
+<path d="M420.44 149.18 Q460.04 149.56 496.96 148.58 Q508.2 150.1 509.56 160.45 Q509.33 169.46 509.89 176.52 Q508.59 188.31 497.2 189.93 Q459.52 187.73 420.72 188.07 Q408.25 188.98 408.24 176.5 Q408.1 168.83 409.78 160.42 Q409.25 148.78 422.54 148.56" fill="#1F1F2E"/>
+<path d="M418.01 146.37 Q456.78 145.02 493.25 146.38 Q505.66 146.43 506.77 157.03 Q505.53 165.3 505.61 174.95 Q505.34 185.77 493.32 185.23 Q455.13 184.39 418.64 186.42 Q405.65 186.57 406.93 173.46 Q406.54 165.18 405.54 157.7 Q405.91 146.28 419.71 145.7" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="426.0" cy="166" r="6.5" fill="#764ABC" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="440.0" y="173" font-size="18" fill="#1F1F2E" textLength="50" lengthAdjust="spacingAndGlyphs">Redux</text>
+</g>
+<g transform="rotate(0.15 565 166)">
+<path d="M534.19 149.69 Q568.84 148.6 600.51 148.33 Q612.08 148.37 612.34 161.78 Q611.91 168.32 613.94 177.92 Q612.12 188.61 602.07 188.76 Q568.28 189.67 535.32 188.02 Q523.49 189.69 522.89 176.66 Q523.78 170.08 523.97 160.34 Q523.57 148.98 538.07 150.04" fill="#1F1F2E"/>
+<path d="M531.51 146.62 Q564.02 147.05 597.46 146.14 Q610.72 145.47 610.4 159.03 Q610.47 165.66 609.29 175.09 Q609.56 186.79 598.12 185.23 Q564.76 185.57 532.25 185.4 Q520.08 186.11 519.45 174.74 Q519.95 166.72 520.88 158.48 Q520.33 146.42 533.24 146.5" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="540.0" cy="166" r="6.5" fill="#CC6699" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="554.0" y="173" font-size="18" fill="#1F1F2E" textLength="40" lengthAdjust="spacingAndGlyphs">Sass</text>
+</g>
+<g transform="rotate(0.33 193 222)">
+<path d="M122.52 204.91 Q196.1 203.6 269 206 Q281.14 205.04 281.64 216.89 Q280.21 225.75 280.27 233.86 Q281.84 245.11 269.04 244.04 Q195.28 245.96 123.5 245.27 Q110.2 245.49 112.08 233.82 Q111.58 224.88 110.83 216.24 Q109.99 206.03 124.77 204.76" fill="#1F1F2E"/>
+<path d="M120.13 200.95 Q194.02 201.25 266.31 201.3 Q277.7 202.47 278.94 213.6 Q276.95 221.05 277.98 229.61 Q276.96 241.2 266.15 242.33 Q193.34 242.87 119.52 241.18 Q108.44 242.23 108.21 228.99 Q106.6 222.58 107.18 213.76 Q108.43 202.16 122.5 200.91" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="128" cy="222" r="6.5" fill="#38BDF8" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="142" y="229" font-size="18" fill="#1F1F2E" textLength="120" lengthAdjust="spacingAndGlyphs">Tailwind CSS</text>
+</g>
+<g transform="rotate(-1.29 352 222)">
+<path d="M307.96 204.75 Q355.71 204.11 402.96 204.5 Q415.09 204.06 414.82 216.6 Q413.38 225.69 415.91 232.23 Q415.29 245.06 402.84 245.2 Q355.35 244.22 306.7 245.02 Q296.09 245.95 295.61 232.91 Q296.44 226.05 295.84 216.33 Q294.8 204.4 308.89 205.78" fill="#1F1F2E"/>
+<path d="M303.75 202.4 Q352.5 201.67 399.27 200.94 Q411.54 200.99 411.2 214.09 Q411.94 222.77 411.17 229.07 Q411.19 241.81 399.21 242.61 Q352.18 243.76 303.52 243 Q291.63 242.62 292.75 229.55 Q291.36 220.91 292.32 214.01 Q292.31 200.93 304.94 202.53" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="312.0" cy="222" r="6.5" fill="#47A248" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="326.0" y="229" font-size="18" fill="#1F1F2E" textLength="70" lengthAdjust="spacingAndGlyphs">MongoDB</text>
+</g>
+<g transform="rotate(-0.34 466 222)">
+<path d="M441.72 204.37 Q469.97 204.98 496.77 205.26 Q508.27 204.33 508.83 216.41 Q509.6 224.82 508.74 232.51 Q508.39 245.48 497.89 244.67 Q469.67 244.34 441.57 244.43 Q429.15 244.8 429.82 233.57 Q427.62 224.12 428.91 216.37 Q428.42 205.99 443.97 203.94" fill="#1F1F2E"/>
+<path d="M438.14 202.53 Q464.95 203.35 494.29 202.33 Q506.76 201.65 506.66 214.39 Q504.71 222.46 506.21 230.7 Q506.73 242.35 494.24 242.94 Q465.29 240.82 438.34 242.38 Q427.02 242.48 426.09 230.88 Q424.69 221.43 427.05 214.47 Q426.3 202.05 439.04 201.74" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="446.0" cy="222" r="6.5" fill="#CB3837" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="460.0" y="229" font-size="18" fill="#1F1F2E" textLength="30" lengthAdjust="spacingAndGlyphs">npm</text>
+</g>
+<g transform="rotate(0.57 585 222)">
+<path d="M534.96 205.37 Q588.26 205.7 641.88 205.55 Q652.26 204.39 652.9 216.76 Q654.63 225.5 652.93 232.67 Q652.4 245.23 641.93 244.27 Q587.9 244.45 535.24 244.46 Q522.04 245.39 522.58 233.32 Q524.43 225.18 523.91 217.67 Q522.04 204.44 537.36 204.95" fill="#1F1F2E"/>
+<path d="M531.77 203.06 Q585.45 200.45 638.13 201.24 Q649 202.71 651.07 214.05 Q650.49 221.2 649.1 229.53 Q649.05 242.6 637.25 241.93 Q584.02 240.93 531.65 242.02 Q519.55 242.11 520.23 229.25 Q520.21 221.12 520.34 214.69 Q520.96 202.83 534.2 202.98" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="540.0" cy="222" r="6.5" fill="#FFCA28" stroke="#1F1F2E" stroke-width="1.6"/>
+<text class="t" x="554.0" y="229" font-size="18" fill="#1F1F2E" textLength="80" lengthAdjust="spacingAndGlyphs">Firebase</text>
+</g>
+<text class="t" x="108" y="284" font-size="17" fill="#59636E" textLength="310" lengthAdjust="spacingAndGlyphs">and always learning something new</text>
+</g>
+<rect x="1" y="1" width="814" height="336" rx="15" fill="none" stroke="#E4DCC8" stroke-width="2"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="304" viewBox="0 0 816 304" role="img" aria-label="About me: currently working on ReactJS, Next.js and React Native. Ask me about JavaScript, ReactJS and Next.js. Reach me at atsandeep05@gmail.com. Fun fact: I play games and go to the gym very often.">
+<title>About me: currently working on ReactJS, Next.js and React Native. Ask me about JavaScript, ReactJS and Next.js. Reach me at atsandeep05@gmail.com. Fun fact: I play games and go to the gym very often.</title>
+<style>
+.t { font-family: 'Segoe Print', 'Chalkboard SE', 'Comic Sans MS', 'Coming Soon', casual, cursive; }
+
+</style>
+<defs><clipPath id="ab-c"><rect width="816" height="304" rx="16"/></clipPath><pattern id="ab-r" x="0" y="14" width="816" height="26" patternUnits="userSpaceOnUse"><rect x="0" y="25" width="816" height="1" fill="#C9DCF2"/></pattern></defs>
+<g clip-path="url(#ab-c)">
+<rect width="816" height="304" fill="#FFFDF5"/>
+<rect width="816" height="304" fill="url(#ab-r)"/>
+<rect x="76" y="0" width="1.5" height="304" fill="#F0A3A3"/>
+<circle cx="34" cy="56" r="8" fill="#ECE5D3"/>
+<circle cx="34" cy="120" r="8" fill="#ECE5D3"/>
+<circle cx="34" cy="184" r="8" fill="#ECE5D3"/>
+<circle cx="34" cy="248" r="8" fill="#ECE5D3"/>
+<path d="M108 43.81 C180.95 41.24 283.55 47.7 360.5 43.86 C365.5 53.8 363.5 63.6 358.5 72.03 C283.55 74.35 180.95 68.74 104 72.05 C100 62.2 101 52.4 108 44.52 Z" fill="#FFE45C" opacity="0.85"/>
+<text class="t" x="110" y="66" font-size="26" font-weight="700" fill="#1F1F2E" textLength="246" lengthAdjust="spacingAndGlyphs">a little about me</text>
+<path d="M752 68V18a9 9 0 0 1 18 0v40a13 13 0 0 1-26 0V26" fill="none" stroke="#8A8FA3" stroke-width="3" stroke-linecap="round"/>
+<g transform="translate(128 108)"><path d="M-19 3L12 -13L18 -1L-13 15Z" fill="#FFE45C" stroke="#1F1F2E" stroke-width="2.2" stroke-linejoin="round"/><path d="M3 -8.4L9 3.6" stroke="#1F1F2E" stroke-width="2.2"/><path d="M-19 3L-13 15" stroke="#1F1F2E" stroke-width="4.5" stroke-linecap="round"/><path d="M-3 9L-11 23M-3 9L5 23M-3 9V23" fill="none" stroke="#1F1F2E" stroke-width="2.2" stroke-linecap="round"/><path d="M22 -23V-13M17 -18H27" stroke="#1F1F2E" stroke-width="2" stroke-linecap="round"/></g>
+<text class="t" x="166" y="116" font-size="18" fill="#3D3D52">I&#x27;m currently working on <tspan font-weight="700" fill="#1F1F2E">ReactJS, Next.js &amp; React Native</tspan></text>
+<g transform="translate(128 160)"><path d="M-17 -14H17C21 -14 22 -12 22 -9V5C22 8 21 10 17 10H-1L-10 18L-8 10H-17C-21 10 -22 8 -22 5V-9C-22 -12 -21 -14 -17 -14Z" fill="#D6ECFF" stroke="#1F1F2E" stroke-width="2.2" stroke-linejoin="round"/><circle cx="-8" cy="-2" r="2.3" fill="#1F1F2E"/><circle cx="0" cy="-2" r="2.3" fill="#1F1F2E"/><circle cx="8" cy="-2" r="2.3" fill="#1F1F2E"/></g>
+<text class="t" x="166" y="168" font-size="18" fill="#3D3D52">Ask me about <tspan font-weight="700" fill="#1F1F2E">JavaScript, ReactJS &amp; Next.js</tspan></text>
+<g transform="translate(128 212)"><g transform="scale(1.0)"><path d="M-20 -12H20V14H-20Z" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2.20" stroke-linejoin="round"/><path d="M-20 -12L0 4L20 -12" fill="none" stroke="#1F1F2E" stroke-width="2.20" stroke-linejoin="round"/><path d="M0 12C-5 9 -6 4 -3 3C-1.5 2.5 -0.5 3.5 0 4.5C0.5 3.5 1.5 2.5 3 3C6 4 5 9 0 12Z" fill="#C23B3B"/></g></g>
+<text class="t" x="166" y="220" font-size="18" fill="#3D3D52">How to reach me: <tspan font-weight="700" fill="#1F1F2E">atsandeep05@gmail.com</tspan></text>
+<g transform="translate(128 264)"><path d="M-12 0H12" stroke="#1F1F2E" stroke-width="3" stroke-linecap="round"/><rect x="-21" y="-11" width="6" height="22" rx="2" fill="#FFD84D" stroke="#1F1F2E" stroke-width="2"/><rect x="-15" y="-7" width="4" height="14" rx="1.5" fill="#FFD84D" stroke="#1F1F2E" stroke-width="2"/><rect x="11" y="-7" width="4" height="14" rx="1.5" fill="#FFD84D" stroke="#1F1F2E" stroke-width="2"/><rect x="15" y="-11" width="6" height="22" rx="2" fill="#FFD84D" stroke="#1F1F2E" stroke-width="2"/></g>
+<text class="t" x="166" y="272" font-size="18" fill="#3D3D52">Fun fact: <tspan font-weight="700" fill="#1F1F2E">I play games and go to the gym very often</tspan></text>
+</g>
+<rect x="1" y="1" width="814" height="302" rx="15" fill="none" stroke="#E4DCC8" stroke-width="2"/>
+</svg>

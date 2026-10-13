@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="300" viewBox="0 0 816 300" role="img" aria-label="Hi, I&#x27;m Sandeep Yadav, a passionate frontend developer from India">
+<title>Hi, I&#x27;m Sandeep Yadav, a passionate frontend developer from India</title>
+<style>
+.t { font-family: 'Segoe Print', 'Chalkboard SE', 'Comic Sans MS', 'Coming Soon', casual, cursive; }
+
+.w { fill: none; stroke: #1F1F2E; stroke-width: 6.6; stroke-linecap: round; stroke-linejoin: round; animation-name: write; animation-timing-function: linear; animation-fill-mode: both; }
+@keyframes write { to { stroke-dashoffset: 0px; } }
+.jitter { transform-box: view-box; transform-origin: 180px 200px; animation: jitter .45s step-end infinite; }
+@keyframes jitter { 0% { transform: translate(0px, 0px) rotate(0deg); } 33% { transform: translate(.6px, -.4px) rotate(.4deg); } 66% { transform: translate(-.5px, .4px) rotate(-.3deg); } 100% { transform: translate(0px, 0px) rotate(0deg); } }
+.wave { transform-box: view-box; transform-origin: 214px 172px; animation: wave 3.6s ease-in-out infinite; }
+@keyframes wave { 0%, 50%, 100% { transform: rotate(0deg); } 10%, 30% { transform: rotate(-16deg); } 20%, 40% { transform: rotate(10deg); } }
+.marks { animation: marks 3.6s step-end infinite; }
+@keyframes marks { 0% { opacity: 0; } 8% { opacity: 1; } 44% { opacity: 0; } 100% { opacity: 0; } }
+.blink { transform-box: fill-box; transform-origin: 50% 50%; animation: blink 4.4s linear infinite; }
+@keyframes blink { 0%, 91%, 100% { transform: scaleY(1); } 94% { transform: scaleY(.1); } }
+.rays { animation: rays 1.4s step-end infinite; }
+@keyframes rays { 0% { opacity: 1; } 50% { opacity: .15; } 100% { opacity: 1; } }
+.plane { animation: plane 9s ease-in-out infinite; }
+@keyframes plane { 0% { transform: translate(230px, 44px) rotate(-6deg); opacity: 0; } 6% { opacity: 1; } 30% { transform: translate(410px, 30px) rotate(5deg); } 55% { transform: translate(590px, 42px) rotate(-6deg); } 80% { transform: translate(770px, 28px) rotate(6deg); } 92% { transform: translate(880px, 36px) rotate(0deg); opacity: 1; } 100% { transform: translate(880px, 36px) rotate(0deg); opacity: 0; } }
+.fade { animation: fadeUp .5s ease-out both; }
+@keyframes fadeUp { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0px); } }
+.pop { transform-box: fill-box; transform-origin: 50% 50%; animation: pop .45s cubic-bezier(.3, 1.6, .6, 1) both; }
+@keyframes pop { from { opacity: 0; transform: scale(.4); } to { opacity: 1; transform: scale(1); } }
+.swipe { transform-box: fill-box; transform-origin: 0% 50%; animation: swipe .45s ease-out both; }
+@keyframes swipe { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+.ul { stroke-dasharray: 462.9px 464.9px; animation: draw 0.9s linear 3.80s both; }
+@keyframes draw { from { stroke-dashoffset: 463.9px; } to { stroke-dashoffset: 0px; } }
+.pencil { animation: pencil 1.25s linear 3.80s both; }
+@keyframes pencil { 0% { transform: translate(0px, 0px); opacity: 0; } 3% { opacity: 1; } 7.2% { transform: translate(46.1px, 0.1px); opacity: 1; } 14.4% { transform: translate(92.2px, 3.1px); opacity: 1; } 21.6% { transform: translate(138.3px, 3.2px); opacity: 1; } 28.8% { transform: translate(184.4px, 1.1px); opacity: 1; } 36.0% { transform: translate(230.6px, 1.7px); opacity: 1; } 43.2% { transform: translate(276.7px, 0.8px); opacity: 1; } 50.4% { transform: translate(322.9px, 2.3px); opacity: 1; } 57.6% { transform: translate(369.0px, 2.1px); opacity: 1; } 64.8% { transform: translate(415.1px, -0.6px); opacity: 1; } 72.0% { transform: translate(461.2px, -0.4px); opacity: 1; } 100% { transform: translate(477.2px, -18.4px); opacity: 0; } }
+.drop { animation: drop .6s cubic-bezier(.3, 1.4, .6, 1) both; }
+@keyframes drop { from { opacity: 0; transform: translateY(-18px); } to { opacity: 1; transform: translateY(0px); } }
+.flag { transform-box: fill-box; transform-origin: 0% 50%; animation: flag 1.6s ease-in-out infinite; }
+@keyframes flag { 0%, 100% { transform: skewY(0deg) scaleX(1); } 50% { transform: skewY(-6deg) scaleX(.94); } }
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; }
+  .w, .ul { stroke-dasharray: none !important; stroke-dashoffset: 0px !important; }
+  .plane, .pencil { visibility: hidden; }
+}
+
+</style>
+<defs><clipPath id="hd-c"><rect width="816" height="300" rx="16"/></clipPath><pattern id="hd-r" x="0" y="14" width="816" height="26" patternUnits="userSpaceOnUse"><rect x="0" y="25" width="816" height="1" fill="#C9DCF2"/></pattern></defs>
+<g clip-path="url(#hd-c)">
+<rect width="816" height="300" fill="#FFFDF5"/>
+<rect width="816" height="300" fill="url(#hd-r)"/>
+<rect x="76" y="0" width="1.5" height="300" fill="#F0A3A3"/>
+<circle cx="34" cy="56" r="8" fill="#ECE5D3"/>
+<circle cx="34" cy="120" r="8" fill="#ECE5D3"/>
+<circle cx="34" cy="184" r="8" fill="#ECE5D3"/>
+<circle cx="34" cy="248" r="8" fill="#ECE5D3"/>
+<path class="rays" d="M126 12V20M100 26L106 32M152 26L146 32M92 46H100M152 46H160" stroke="#1F1F2E" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M126 26C116 26 109 34 109 43C109 50 113 54 117 58V64H135V58C139 54 143 50 143 43C143 34 136 26 126 26Z" fill="#FFE45C" stroke="#1F1F2E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M121 46Q126 40 131 46" fill="none" stroke="#1F1F2E" stroke-width="2" stroke-linecap="round"/>
+<path d="M119 69H133M121 74H131" stroke="#1F1F2E" stroke-width="2.5" stroke-linecap="round"/>
+<path transform="translate(282 62) scale(1)" d="M0 -10L2.35 -3.24L9.51 -3.09L3.8 1.24L5.88 8.09L0 4L-5.88 8.09L-3.8 1.24L-9.51 -3.09L-2.35 -3.24Z" fill="#FFE45C" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<path transform="translate(104 168) scale(0.8)" d="M0 -10L2.35 -3.24L9.51 -3.09L3.8 1.24L5.88 8.09L0 4L-5.88 8.09L-3.8 1.24L-9.51 -3.09L-2.35 -3.24Z" fill="#FFE45C" stroke="#1F1F2E" stroke-width="2.4" stroke-linejoin="round"/>
+<path transform="translate(288 150) scale(0.7)" d="M0 -10L2.35 -3.24L9.51 -3.09L3.8 1.24L5.88 8.09L0 4L-5.88 8.09L-3.8 1.24L-9.51 -3.09L-2.35 -3.24Z" fill="#FFE45C" stroke="#1F1F2E" stroke-width="2.6" stroke-linejoin="round"/>
+<g class="jitter">
+<path d="M110 290C140 287 170 292 200 289C220 287 240 291 262 289" fill="none" stroke="#1F1F2E" stroke-width="2" stroke-linecap="round"/>
+<path d="M156 232H204L200 276H184L180 248L176 276H160Z" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="3" stroke-linejoin="round"/>
+<path d="M164 242L170 236M163 254L169 248M190 242L196 236M191 256L197 250" stroke="#1F1F2E" stroke-width="1.5" stroke-linecap="round" opacity="0.5"/>
+<ellipse cx="166" cy="282" rx="13" ry="6" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2.5"/>
+<ellipse cx="194" cy="282" rx="13" ry="6" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2.5"/>
+<path d="M176 136V146M184 136V146" stroke="#1F1F2E" stroke-width="3" stroke-linecap="round"/>
+<path d="M150 152C158 146 168 145 176 146H184C192 145 202 146 210 152L222 172L208 178L206 166V232H154V166L152 178L138 172Z" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="3" stroke-linejoin="round"/>
+<text class="t" x="180" y="205" text-anchor="middle" font-size="19" font-weight="700" fill="#1F1F2E">&lt;/&gt;</text>
+<path d="M145 176C143 194 142 208 142 220" fill="none" stroke="#1F1F2E" stroke-width="3" stroke-linecap="round"/>
+<path d="M125.4 240.7L151.4 211.7L156.6 216.3L130.6 245.3Z" fill="#FFD84D" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<path d="M125.4 240.7L130.6 245.3L122 249.7Z" fill="#F2D2A9" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<path d="M123.5 247.2L124.7 248.3L122 249.7Z" fill="#1F1F2E"/>
+<path d="M151.4 211.7L155.4 207.2L160.6 211.8L156.6 216.3Z" fill="#F28C8C" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="142" cy="227" r="7" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2.5"/>
+<path d="M180 72C199 71 213 86 212 104C211 123 197 137 179 136C160 135 147 121 148 103C149 86 162 73 180 72Z" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="3"/>
+<path d="M148 100C142 100 142 112 148 112" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M212 100C218 100 218 112 212 112" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M150 96C146 76 160 60 182 60C202 60 216 74 212 94L206 84L200 92L194 80L186 90L178 78L170 90L162 80L156 92Z" fill="#1F1F2E" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="166" cy="106" r="9" fill="none" stroke="#1F1F2E" stroke-width="2.5"/>
+<circle cx="194" cy="106" r="9" fill="none" stroke="#1F1F2E" stroke-width="2.5"/>
+<path d="M175 105Q180 102 185 105M157 104L149 102M203 104L211 102" fill="none" stroke="#1F1F2E" stroke-width="2.5" stroke-linecap="round"/>
+<g class="blink"><circle cx="167" cy="107" r="2.6" fill="#1F1F2E"/><circle cx="193" cy="107" r="2.6" fill="#1F1F2E"/></g>
+<path d="M152 122L156 118M156 124L160 120M200 122L204 118M204 124L208 120" stroke="#F08A8A" stroke-width="2" stroke-linecap="round"/>
+<path d="M170 120Q180 129 190 120" fill="none" stroke="#1F1F2E" stroke-width="2.5" stroke-linecap="round"/>
+<g class="wave">
+<path d="M215 172C223 160 229 148 233 136" fill="none" stroke="#1F1F2E" stroke-width="3" stroke-linecap="round"/>
+<circle cx="235" cy="129" r="8" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2.5"/>
+<path d="M230 122L227 115M235 121V113M240 122L243 115M242 128L249 126" fill="none" stroke="#1F1F2E" stroke-width="2.5" stroke-linecap="round"/>
+</g>
+</g>
+<path class="marks" d="M252 112Q257 118 252 124M258 106Q265 118 258 130" fill="none" stroke="#1F1F2E" stroke-width="2" stroke-linecap="round"/>
+<g class="pop" style="animation-delay: .9s">
+<path d="M238 262C230 260 224 256 220 250M219 257L220 250L227 251" fill="none" stroke="#C23B3B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text class="t" x="244" y="268" font-size="17" font-weight="700" fill="#C23B3B">that's me!</text>
+</g>
+<text class="t fade" x="324" y="76" font-size="21" fill="#3D3D52" style="animation-delay: .15s">hi! i'm</text>
+<path class="swipe" d="M322 114.91 C457.56 114.85 643.64 116.51 783.2 116.82 C788.2 127.9 786.2 139.8 781.2 148.34 C643.64 150.99 457.56 150 318 148.84 C314 138.1 315 126.2 322 116.57 Z" fill="#FFE45C" opacity="0.85" style="animation-delay: 3.35s"/>
+<g transform="translate(324 143) scale(0.94)">
+<g transform="translate(0 -2.09) rotate(1.12 14 -20)">
+<path class="w" d="M24.83 -47.25 A12.5 12.5 0 0 0 3.17 -47.25 A12.5 12.5 0 0 0 14 -28.5 A14 14 0 0 1 26.42 -8.04 A14 14 0 0 1 2.53 -6.47" style="stroke-dasharray: 110.8px 112.8px; stroke-dashoffset: 111.8px; animation-duration: 0.12s; animation-delay: 0.55s"/>
+</g>
+<g transform="translate(0 -1.22) rotate(-1.8 53 -20)">
+<path class="w" d="M68.04 -22.47 A16 16 0 0 0 40.74 -27.28 A16 16 0 0 0 50.22 -1.24 A16 16 0 0 0 68.04 -22.47" style="stroke-dasharray: 101.5px 103.5px; stroke-dashoffset: 102.5px; animation-duration: 0.11s; animation-delay: 0.72s"/>
+<path class="w" d="M69 -34 L69 0" style="stroke-dasharray: 35.0px 37.0px; stroke-dashoffset: 36.0px; animation-duration: 0.06s; animation-delay: 0.86s"/>
+</g>
+<g transform="translate(0 0.78) rotate(1.89 91 -20)">
+<path class="w" d="M78 -34 L78 0" style="stroke-dasharray: 35.0px 37.0px; stroke-dashoffset: 36.0px; animation-duration: 0.06s; animation-delay: 0.97s"/>
+<path class="w" d="M78 -20 A13 13 0 0 1 91 -33 A13 13 0 0 1 104 -20 L104 0" style="stroke-dasharray: 61.8px 63.8px; stroke-dashoffset: 62.8px; animation-duration: 0.07s; animation-delay: 1.06s"/>
+</g>
+<g transform="translate(0 -1.82) rotate(3.14 129 -20)">
+<path class="w" d="M144.04 -22.47 A16 16 0 0 0 116.74 -27.28 A16 16 0 0 0 126.22 -1.24 A16 16 0 0 0 144.04 -22.47" style="stroke-dasharray: 101.5px 103.5px; stroke-dashoffset: 102.5px; animation-duration: 0.11s; animation-delay: 1.18s"/>
+<path class="w" d="M145 -56 L145 0" style="stroke-dasharray: 57.0px 59.0px; stroke-dashoffset: 58.0px; animation-duration: 0.06s; animation-delay: 1.32s"/>
+</g>
+<g transform="translate(0 -2.07) rotate(-0.62 170 -20)">
+<path class="w" d="M155 -17 L186 -17 A16 16 0 0 0 154.96 -22.47 A16 16 0 0 0 182.26 -6.72" style="stroke-dasharray: 121.4px 123.4px; stroke-dashoffset: 122.4px; animation-duration: 0.13s; animation-delay: 1.44s"/>
+</g>
+<g transform="translate(0 0.02) rotate(-2.25 211 -20)">
+<path class="w" d="M196 -17 L227 -17 A16 16 0 0 0 195.96 -22.47 A16 16 0 0 0 223.26 -6.72" style="stroke-dasharray: 121.4px 123.4px; stroke-dashoffset: 122.4px; animation-duration: 0.13s; animation-delay: 1.62s"/>
+</g>
+<g transform="translate(0 -1.33) rotate(-3.79 252 -20)">
+<path class="w" d="M236 -34 L236 18" style="stroke-dasharray: 53.0px 55.0px; stroke-dashoffset: 54.0px; animation-duration: 0.06s; animation-delay: 1.80s"/>
+<path class="w" d="M236 -17 A16 16 0 0 1 260 -30.86 A16 16 0 0 1 260 -3.14 A16 16 0 0 1 236 -17" style="stroke-dasharray: 101.5px 103.5px; stroke-dashoffset: 102.5px; animation-duration: 0.11s; animation-delay: 1.89s"/>
+</g>
+<g transform="translate(0 0.2) rotate(1.2 306 -20)">
+<path class="w" d="M292 -54 L306 -27 L306 0" style="stroke-dasharray: 58.4px 60.4px; stroke-dashoffset: 59.4px; animation-duration: 0.06s; animation-delay: 2.20s"/>
+<path class="w" d="M320 -54 L306 -27" style="stroke-dasharray: 31.4px 33.4px; stroke-dashoffset: 32.4px; animation-duration: 0.06s; animation-delay: 2.30s"/>
+</g>
+<g transform="translate(0 0.39) rotate(-2.24 345 -20)">
+<path class="w" d="M360.04 -22.47 A16 16 0 0 0 332.74 -27.28 A16 16 0 0 0 342.22 -1.24 A16 16 0 0 0 360.04 -22.47" style="stroke-dasharray: 101.5px 103.5px; stroke-dashoffset: 102.5px; animation-duration: 0.11s; animation-delay: 2.41s"/>
+<path class="w" d="M361 -34 L361 0" style="stroke-dasharray: 35.0px 37.0px; stroke-dashoffset: 36.0px; animation-duration: 0.06s; animation-delay: 2.55s"/>
+</g>
+<g transform="translate(0 -2.17) rotate(2.48 386 -20)">
+<path class="w" d="M401.04 -22.47 A16 16 0 0 0 373.74 -27.28 A16 16 0 0 0 383.22 -1.24 A16 16 0 0 0 401.04 -22.47" style="stroke-dasharray: 101.5px 103.5px; stroke-dashoffset: 102.5px; animation-duration: 0.11s; animation-delay: 2.66s"/>
+<path class="w" d="M402 -56 L402 0" style="stroke-dasharray: 57.0px 59.0px; stroke-dashoffset: 58.0px; animation-duration: 0.06s; animation-delay: 2.80s"/>
+</g>
+<g transform="translate(0 0.87) rotate(2.45 427 -20)">
+<path class="w" d="M442.04 -22.47 A16 16 0 0 0 414.74 -27.28 A16 16 0 0 0 424.22 -1.24 A16 16 0 0 0 442.04 -22.47" style="stroke-dasharray: 101.5px 103.5px; stroke-dashoffset: 102.5px; animation-duration: 0.11s; animation-delay: 2.91s"/>
+<path class="w" d="M443 -34 L443 0" style="stroke-dasharray: 35.0px 37.0px; stroke-dashoffset: 36.0px; animation-duration: 0.06s; animation-delay: 3.06s"/>
+</g>
+<g transform="translate(0 -1.52) rotate(-1.28 466 -20)">
+<path class="w" d="M452 -34 L466 0 L480 -34" style="stroke-dasharray: 74.5px 76.5px; stroke-dashoffset: 75.5px; animation-duration: 0.08s; animation-delay: 3.17s"/>
+</g>
+</g>
+<path class="ul" d="M320 174.99 C358.05 170.49 396.1 181.45 435.3 176.95 C473.35 181.45 511.4 172.17 550.6 176.67 C588.65 172.17 626.7 180.4 665.9 175.9 C703.95 180.4 742 170.08 781.2 174.58" fill="none" stroke="#1F1F2E" stroke-width="2.6" stroke-linecap="round"/>
+<g transform="translate(320 174.99)"><g class="pencil">
+<path d="M1.4 -8.43L18.4 -37.8L23.6 -34.8L6.6 -5.43Z" fill="#FFD84D" stroke="#1F1F2E" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M0 0L1.4 -8.43L6.6 -5.43Z" fill="#F2D2A9" stroke="#1F1F2E" stroke-width="1.8" stroke-linejoin="round"/>
+<path d="M0 0L0.5 -2.8L2.2 -1.8Z" fill="#1F1F2E"/>
+<path d="M18.4 -37.8L21.4 -43L26.6 -40L23.6 -34.8Z" fill="#F28C8C" stroke="#1F1F2E" stroke-width="1.8" stroke-linejoin="round"/>
+</g></g>
+<text class="t fade" x="324" y="210" font-size="19" fill="#3D3D52" textLength="418" lengthAdjust="spacingAndGlyphs" style="animation-delay: 4.45s">a passionate frontend developer from India</text>
+<g class="pop" style="animation-delay: 4.85s">
+<path d="M752 184V216" stroke="#1F1F2E" stroke-width="2.2" stroke-linecap="round"/>
+<g transform="translate(753 186)"><g class="flag">
+<rect x="0" y="0" width="26" height="5.8" fill="#FF9933"/>
+<rect x="0" y="5.8" width="26" height="5.8" fill="#FFFFFF"/>
+<rect x="0" y="11.6" width="26" height="5.8" fill="#138808"/>
+<circle cx="13" cy="8.7" r="2.3" fill="none" stroke="#000080" stroke-width="0.9"/>
+<circle cx="13" cy="8.7" r="0.7" fill="#000080"/>
+<rect x="0" y="0" width="26" height="17.4" fill="none" stroke="#1F1F2E" stroke-width="1.6" stroke-linejoin="round"/>
+</g></g>
+</g>
+<g class="drop" style="animation-delay: 5.00s"><g transform="rotate(-3 704 254)">
+<rect x="616" y="224" width="184" height="66" fill="#E8DC9A"/>
+<rect x="612" y="220" width="184" height="66" fill="#FFF1A8"/>
+<rect x="682" y="212" width="44" height="14" fill="#FFFFFF" opacity="0.65"/>
+<text class="t" x="626" y="242" font-size="14" font-weight="700" fill="#1F1F2E" textLength="156" lengthAdjust="spacingAndGlyphs">currently working on</text>
+<text class="t" x="626" y="262" font-size="15" fill="#1F1F2E" textLength="146" lengthAdjust="spacingAndGlyphs">ReactJS, Next.js &amp;</text>
+<text class="t" x="626" y="281" font-size="15" fill="#1F1F2E">React Native</text>
+</g></g>
+<g class="plane">
+<path d="M-12 6C-26 12 -40 2 -56 8" fill="none" stroke="#1F1F2E" stroke-width="1.5" stroke-dasharray="4 4" stroke-linecap="round"/>
+<path d="M0 0L32 -12L10 2Z" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+<path d="M10 2L32 -12L14 10Z" fill="#E9E3D3" stroke="#1F1F2E" stroke-width="2" stroke-linejoin="round"/>
+</g>
+</g>
+<rect x="1" y="1" width="814" height="298" rx="15" fill="none" stroke="#E4DCC8" stroke-width="2"/>
+</svg>

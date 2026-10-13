@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="72" viewBox="0 0 210 72" role="img" aria-label="LinkedIn">
+<title>LinkedIn</title>
+<style>
+.t { font-family: 'Segoe Print', 'Chalkboard SE', 'Comic Sans MS', 'Coming Soon', casual, cursive; }
+
+</style>
+<path d="M22.89 12.14 Q107.02 11.87 189.02 12.21 Q200.24 12.03 201.31 24.7 Q199.44 37.53 200.02 52.74 Q201.46 62.9 190.16 65.12 Q106.37 64.44 22.18 62.84 Q11.07 62.94 10.26 51.38 Q9.2 37.91 10.86 24.82 Q11.05 12.34 25 12.39" fill="#1F1F2E"/>
+<path d="M17.94 6.38 Q101.4 4.63 182.83 5.7 Q195.46 6.74 196.46 18.24 Q196.22 32.39 195.15 45.86 Q195.19 58.97 182.94 58.77 Q99.98 58.72 17.61 57.77 Q6.82 56.84 4.95 47 Q6.03 31.02 7.17 19.07 Q5.07 5.82 19.12 5.55" fill="#D6ECFF" stroke="#1F1F2E" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M18.13 7.67 Q101.66 9.01 181.87 6.03 Q193.73 6.01 195.84 17.67 Q195.18 30.97 194.26 44.75 Q196.22 57.39 181.25 56.19 Q99.73 59.14 20.12 58.1 Q8.17 57.88 8.62 46.06 Q5.6 33.26 6.95 19.92 Q7.23 6.75 20.51 6.75" fill="none" stroke="#1F1F2E" stroke-width="1.1" opacity="0.4"/>
+<g transform="translate(40 32)"><path d="M-6 -7V-11C-6 -12.5 -5 -13.5 -3.5 -13.5H3.5C5 -13.5 6 -12.5 6 -11V-7" fill="none" stroke="#1F1F2E" stroke-width="2.2"/><rect x="-15" y="-7" width="30" height="20" rx="3" fill="#FFFFFF" stroke="#1F1F2E" stroke-width="2.2"/><path d="M-15 1H15" stroke="#1F1F2E" stroke-width="2"/><rect x="-3" y="-1.5" width="6" height="5" rx="1" fill="#FFE45C" stroke="#1F1F2E" stroke-width="1.6"/></g>
+<text class="t" x="70" y="40" font-size="21" font-weight="700" fill="#1F1F2E" textLength="96" lengthAdjust="spacingAndGlyphs">LinkedIn</text>
+</svg>
