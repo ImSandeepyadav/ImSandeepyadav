@@ -1,65 +1,55 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sandeep Yadav</h1>
-<h3 align="center">I'm a passionate Frontend Developer from India</h3>
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Hi, I'm Sandeep Yadav, a passionate frontend developer from India" />
+</p>
 
+<p align="center">
+  <img src="./about.svg" width="100%" alt="About me: I'm currently working on ReactJS, Next.js and React Native. Ask me about JavaScript, ReactJS and Next.js. Reach me at atsandeep05@gmail.com. Fun fact: I play games and go to the gym very often." />
+</p>
 
-- 🔭 I’m currently working on **ReactJs, Nextjs, ReactNative**
+<p align="center">
+  <img src="./title-connect.svg" width="100%" alt="Let's connect" />
+</p>
 
-- 💬 Ask me about **JavaScript, ReactJs, Nextjs**
+<p align="center">
+  <a href="https://www.linkedin.com/in/sandeepyadavme/"><img src="./btn-linkedin.svg" width="160" alt="LinkedIn" /></a>
+  <a href="https://github.com/ImSandeepyadav"><img src="./btn-github.svg" width="160" alt="GitHub" /></a>
+  <a href="https://instagram.com/ydvsandeep05"><img src="./btn-instagram.svg" width="160" alt="Instagram" /></a>
+  <a href="mailto:atsandeep05@gmail.com"><img src="./btn-email.svg" width="160" alt="Email me" /></a>
+</p>
 
-- 📫 How to reach me **atsandeep05@gmail.com**
+<p align="center">
+  <img src="./title-companies.svg" width="100%" alt="Companies I've worked with" />
+</p>
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
-  
+<p align="center">
+  <a href="https://harij.in"><img src="./co-harij.svg" width="150" alt="Harij Softech Solutions" /></a>
+  <a href="https://zerocarbon.one/"><img src="./co-zerocarbon.svg" width="150" alt="ZeroCarbon.one" /></a>
+  <a href="https://redmonk.in/"><img src="./co-redmonk.svg" width="150" alt="Redmonk Studios" /></a>
+  <a href="https://www.iceteamedia.com/"><img src="./co-icetea.svg" width="150" alt="ICETEA MEDIA GROUP" /></a>
+  <a href="https://www.linkedin.com/company/buzycube/"><img src="./co-monorbit.svg" width="150" alt="Monorbit" /></a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="./tools.svg" width="100%" alt="Languages and tools: HTML5, JavaScript, CSS3, Next.js, Node.js, React, React Router, Redux, Sass, Tailwind CSS, MongoDB, npm, Firebase" />
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandeepyadavme/)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImSandeepyadav)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ydvsandeep05)
+<p align="center">
+  <img src="./title-stats.svg" width="100%" alt="My GitHub stats" />
+</p>
 
-<br>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ImSandeepyadav&show_icons=true&locale=en&bg_color=FFFDF5&title_color=1F1F2E&text_color=3D3D52&icon_color=C23B3B&border_color=1F1F2E&border_radius=14" alt="Sandeep's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImSandeepyadav&layout=compact&locale=en&bg_color=FFFDF5&title_color=1F1F2E&text_color=3D3D52&icon_color=C23B3B&border_color=1F1F2E&border_radius=14" alt="Most used languages" />
+</p>
 
-## 🚀 Companies I've Worked With
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=ImSandeepyadav&background=FFFDF5&border=1F1F2E&stroke=C9DCF2&ring=C23B3B&fire=C23B3B&currStreakNum=1F1F2E&sideNums=1F1F2E&currStreakLabel=C23B3B&sideLabels=3D3D52&dates=59636E&border_radius=14" alt="GitHub streak" /></a>
+</p>
 
+<p align="center">
+  <img src="./footer.svg" width="100%" alt="Thanks for stopping by! Now back to the gym, or one more game?" />
+</p>
 
-| Company           | Description                                                  | URL                                                          |
-| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| **Harij Softech Solutions**         | - | [Hari.in](https://harij.in)
-| **ZeroCarbon.one**         | - | [zerocarbon.one](https://zerocarbon.one/)
-| **Redmonk Studios**         | - | [redmonk.in](https://redmonk.in/)                              |
-| **ICETEA MEDIA GROUP**         | - | [iceteamedia.com](https://www.iceteamedia.com/)                              |            |
-| **Monorbit**       | - | [Monorbit](https://www.linkedin.com/company/buzycube/)          |
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImSandeepyadav&show_icons=true&locale=en&layout=compact" alt="imsandeepyadav" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ImSandeepyadav&show_icons=true&locale=en" alt="imsandeepyadav" /></p>
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ImSandeepyadav&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-## ❤ Views 
-<a href="https://github.com/ImSandeepyadav/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ImSandeepyadav">
-</a>
-
+<p align="center">
+  <a href="https://github.com/ImSandeepyadav/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=ImSandeepyadav&label=profile%20views&color=1F1F2E&style=flat-square" alt="Profile views" /></a>
+</p>
